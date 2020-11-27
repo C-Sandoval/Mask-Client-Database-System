@@ -1,0 +1,6 @@
+Sales Representatives Sales:
+
+John Doe:
+5/4/2020  4 masks
+10/30/2020  3 masks
+12/2/2020  45 masks
