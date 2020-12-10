@@ -1,0 +1,13 @@
+Mask Manufacturing Companies:
+
+Name: 3M
+Contractual Years: 4
+Masks Produced: 15,000
+
+Name: Honeywell
+Contractual Years: 2
+Masks Produced: 9,000
+
+Name: Kimberly-Clark Corporation
+Contractual Years: 5
+Masks Produced: 18,750
